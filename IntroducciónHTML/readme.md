@@ -43,10 +43,18 @@ Al hacer clic derecho en cualquier página de internet y seleccionar "Inspeccion
 
 Se puede superponer HTML con CSS y JavaScript para crear sitios web dinámicos y visualmente atractivos. Estos lenguajes trabajan juntos para dar estilo y funcionalidad a las páginas web.
 
-## Contribuciones
+
+***
+### Enlaces
+
+[Código de Ejemplo Documento HTML](https://github.com/Isisgldev/Apuntes-HTML/blob/main/Introducci%C3%B3nHTML/ejemplo_doc_html.html)
+
+***
+
+### Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores o deseas mejorar la documentación, no dudes en enviar un [pull request](https://github.com/Isisgldev/Apuntes-HTML/pulls).
 
-## Licencia
+### Licencia
 
 Este proyecto está bajo la [Licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT).
