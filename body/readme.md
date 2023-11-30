@@ -21,9 +21,18 @@ De todo el código HTML de una web, solo se muestra en la pantalla el contenido 
 </body>
 ```
 
-### Enlaces:
+***
+### Enlaces
 
-[Código ejemplo](https://github.com/Isisgldev/Apuntes-HTML/blob/main/body/body_ejemplo.html)
+[Código ejemplo de la etiqueta body con el párrafo anidado](https://github.com/Isisgldev/Apuntes-HTML/blob/main/body/body_ejemplo.html)
 
+***
 
+### Contribuciones
+
+¡Las contribuciones son bienvenidas! Si encuentras errores o deseas mejorar la documentación, no dudes en enviar un [pull request](https://github.com/Isisgldev/Apuntes-HTML/pulls).
+
+### Licencia
+
+Este proyecto está bajo la [Licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT).
 
