@@ -35,6 +35,9 @@ En HTML, la computadora puede interpretar texto sin formato que está envuelto e
 
 Al hacer clic derecho en cualquier página de internet y seleccionar "Inspeccionar", se puede ver un panel de pantalla con el código HTML de la web. Esto permite a los desarrolladores examinar y entender la estructura de la página.
 
+![image](https://github.com/Isisgldev/Apuntes-HTML/assets/43893808/73b8042c-6ef1-4b2b-97ad-e57ad32b5f3d)
+
+
 
 ## Combinando HTML con CSS y JavaScript
 
@@ -42,7 +45,7 @@ Se puede superponer HTML con CSS y JavaScript para crear sitios web dinámicos y
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si encuentras errores o deseas mejorar la documentación, no dudes en enviar un pull request.
+¡Las contribuciones son bienvenidas! Si encuentras errores o deseas mejorar la documentación, no dudes en enviar un [pull request](https://github.com/Isisgldev/Apuntes-HTML/pulls).
 
 ## Licencia
 
